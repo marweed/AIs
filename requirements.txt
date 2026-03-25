@@ -1,0 +1,22 @@
+
+# PyTorch et ses dépendances pour le traitement des données visuelles et audio
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.1
+
+# Gestion des modèles préentraînés et fine-tuning
+transformers==4.31.0
+
+# Visualisation et traitement des données
+matplotlib==3.7.2
+numpy==1.25.1
+pandas==2.0.3
+
+# Simplification du processus d’entraînement
+pytorch-lightning==2.0.0
+
+# Suivi des processus avec des barres de progression
+tqdm==4.65.0
+
+# Gestion des images
+Pillow==10.0.0
